@@ -1,0 +1,6 @@
+pycharm 3.1
+pygame 2.1.2
+txt_files
+sys
+os
+git_hub
